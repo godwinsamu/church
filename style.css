@@ -146,6 +146,9 @@ row-gap:20px;
  .home a{
     margin-bottom:2rem;
  }
+     .address{
+    margin-bottom:5rem;
+ }
 } 
 @media(max-width:800px){
     nav{
@@ -241,6 +244,11 @@ align-content:center;
                 transform: translateY(-150px);
             }
         }
+@media(max-width:575px){
+.copyrights{
+font-size:10px;
+}
+}
         @media(max-width:450px){
              .title{
                 font-size:10px;
