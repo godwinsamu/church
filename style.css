@@ -441,6 +441,9 @@ textarea{
 .copyrights{
     padding-top:1rem;
     padding-bottom:1rem;
+      position:fixed;
+    bottom:0;
+    width:100%;
     color:white;
     margin-top:1rem;
     border: 2px solid black;
